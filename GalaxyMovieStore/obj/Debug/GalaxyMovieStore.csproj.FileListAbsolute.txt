@@ -1,0 +1,4 @@
+D:\Akash\MovieStoreSolution\GalaxyMovieStore\bin\GalaxyMovieStore.dll
+D:\Akash\MovieStoreSolution\GalaxyMovieStore\bin\GalaxyMovieStore.pdb
+D:\Akash\MovieStoreSolution\GalaxyMovieStore\obj\Debug\GalaxyMovieStore.dll
+D:\Akash\MovieStoreSolution\GalaxyMovieStore\obj\Debug\GalaxyMovieStore.pdb
