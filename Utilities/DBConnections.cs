@@ -12,7 +12,7 @@ namespace Utilities
     public class DBConnections
     {
         String strQuery;
-        String dbcon;
+        
 
         
 
